@@ -15,10 +15,10 @@ else:
 
 
 
+   
 
 
-
-
+#empty commit
 #to perform binary search : list element should be sorted,find the middle element,compare the middle element with search
 lst=list(map(int, input("Enter sorted list element:").split()))
 key=int(input("Enter the element to search for: "))
